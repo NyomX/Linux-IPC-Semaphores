@@ -1,5 +1,5 @@
-## Name : SHYAM SUJIN U
-## Reg no : 212223040201
+## Name : Sandeep V
+## Reg no : 212223040179
 # Linux-IPC-Semaphores
 Ex05-Linux IPC-Semaphores
 
@@ -110,7 +110,8 @@ if(NUM_LOOPS>=10)    {
 
 ```
 ## OUTPUT
-![image](https://github.com/Shyamsujin/Linux-IPC-Semaphores/assets/144870449/f2438ccf-a416-4091-b338-66c4c5298e64)
+![image](https://github.com/NyomX/Linux-IPC-Semaphores/assets/145953580/144f431b-0fb5-4c0c-9e37-f55bfe4b924e)
+
 
 # RESULT:
 The program is executed successfully.
